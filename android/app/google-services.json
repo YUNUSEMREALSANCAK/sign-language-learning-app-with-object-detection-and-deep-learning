@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733996798765",
+    "project_id": "flutterisaretdilitercumani",
+    "storage_bucket": "flutterisaretdilitercumani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733996798765:android:8fc7f9c2aee4da3a4479a4",
+        "android_client_info": {
+          "package_name": "com.example.isaretdilitercumaniprojesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl0SI56VKF-7SloF2HAfuxD_GSEkZlxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
